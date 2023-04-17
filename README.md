@@ -1,5 +1,5 @@
 # Decomposition-of-Noised-Signal-Based-on-Sliding-and-Multistage-Singular-Spectrum-Analysis
-# Supergeorge's Final Year Project Research
+# @Supergeorge23's Final Year Project Research
 ## Citation
 
 If you use the MotionSense dataset in your research, please cite it as follows:
