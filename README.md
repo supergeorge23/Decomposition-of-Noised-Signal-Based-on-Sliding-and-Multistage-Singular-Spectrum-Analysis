@@ -22,8 +22,8 @@ address = {New York, NY, USA},
 keywords = {adversarial training, deep learning, edge computing, sensor data privacy, time series analysis},
 }
 
+OR:
 
-\textbf{OR,}
 @inproceedings{Malekzadeh:2018:PSD:3195258.3195260,
 author = {Malekzadeh, Mohammad and Clegg, Richard G. and Cavallaro, Andrea and Haddadi, Hamed},
 title = {Protecting Sensory Data Against Sensitive Inferences},
